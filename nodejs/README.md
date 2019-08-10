@@ -1,11 +1,9 @@
 # MongoDB & Nodejs
 
-## Pre-requisite:
-
-- Clone this Repository
-- Use Play with Kubernetes to setup 3 Node K8s Cluster
 
 ## Create a Deployment
+
+
 ```
 kubectl create -f ./mongo-persistent-volume.yml
 ```
