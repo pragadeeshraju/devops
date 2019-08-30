@@ -678,12 +678,4 @@ Print the client and server version information for the current context.
 kubectl version
 ```
 
-# External documentation
-
-To go further in the management of Kubectl, please refer to these documentations :
-
-* Official Kubernetes [overview of Kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) command line
-* Official Kubernetes documentation to [install Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) command line
-* Official [Kubectl commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands) details
-
  
