@@ -3,7 +3,4 @@
 
 ### K8s cheats
 
-<a href="https://github.com/pragadeeshraju/devops/blob/master/kubernetes/cheatsheet.md" target="_blank">K8s Cheatsheet</a>
-
-
-[link](kubernetes/cheatsheet.md)
+[K8s Cheatsheet](kubernetes/cheatsheet.md)
