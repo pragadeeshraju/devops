@@ -5,4 +5,4 @@
 
 [K8s Cheatsheet](kubernetes/cheatsheet.md)
 
-[Minikube Install](kubernetes/minikube)
+[Minikube Install](kubernetes/minikube.md)
