@@ -1,4 +1,4 @@
-# Cheatsheet - Kubectl
+# Cheatsheet - Kubernetes
 
 Kubectl is a command line interface for running commands against Kubernetes clusters.
 
