@@ -124,4 +124,4 @@ minikube delete
  kubectl get services
  ```
  
- [K8s Cheatsheet](kubernetes/cheatsheet.md)
+ [K8s Cheatsheet](/cheatsheet.md)
