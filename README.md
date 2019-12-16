@@ -7,4 +7,4 @@
 
 [Minikube Install](kubernetes/minikube.md)
 
-[K8S on AWS with KOPS](kubernetes/ha_cluster/k8s_aws_kops.txt)
+[K8S on AWS with KOPS](kubernetes/ha_cluster/k8s on aws with kops.html )
