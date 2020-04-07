@@ -15,7 +15,7 @@
     [INPUT]
         Name              tail
         Tag               kube.*
-        Path              C:\\ProgramData\\Docker\\containers*.log
+        Path              C:\\ProgramData\\Docker\\containers\\*\\*.log
         Parser            docker
         DB                c:\\logs.db
         Mem_Buf_Limit     5MB
@@ -39,8 +39,8 @@
     [OUTPUT]
         Name            es
         Match           *
-        Host            ${FLUENT_ELASTICSEARCH_HOST}
-        Port            ${FLUENT_ELASTICSEARCH_PORT}
+        Host            elasticsearch
+        Port            9200
         Logstash_Format On
         Replace_Dots    On
         Retry_Limit     False
