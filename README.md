@@ -8,3 +8,5 @@
 [Minikube Install](kubernetes/minikube.md)
 
 [K8S on AWS with KOPS](kubernetes/ha_cluster/k8s_on_aws_with_kops.txt)
+
+[![HitCount](http://hits.dwyl.com/pragadeeshraju/devops.svg)](http://hits.dwyl.com/pragadeeshraju/devops)
